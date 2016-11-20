@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Amaury Van Espen web page
+email: vanespen.amaury@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Personal web page of Amaury Van Espen. Hi resume and shared experiences.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: AmauryVanEspen
+github_username:  amaurvanespen
+
+# Build settings
+markdown: kramdown
